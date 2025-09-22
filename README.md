@@ -1,9 +1,9 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Dosis&size=35&pause=500&random=false&width=435&lines=Hi,+I'm+Dhivijit;A+Cyber+Security+Enthusiast;A+Web+Developer;" />
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Dosis&size=35&pause=500&random=false&width=435&lines=Hi,+I'm+Vivek;A+Cyber+Security+Enthusiast;A+Web+Developer;" />
 </div>
 
 
 # 💫 About Me:
-Hello! I'm Vivek, a dedicated Cyber Security B.Tech student at Amrita Vishwa Vidyapeetham. I'm passionate about exploring the intersection of technology and security, with a strong interest in Artificial Intelligence, and Blockchain. I've actively engaged in hands-on experiences, including participating in capture the flag events, which have contributed to honing my practical skills.
+Hello! I'm Vivek Reddy, a dedicated Cyber Security B.Tech student at Amrita Vishwa Vidyapeetham. I'm passionate about exploring the intersection of technology and security, with a strong interest in Artificial Intelligence, and Blockchain. I've actively engaged in hands-on experiences, including participating in capture the flag events, which have contributed to honing my practical skills.
 <br><br>
 <div align="center">
 <picture>
