@@ -15,11 +15,11 @@ Hello! I'm Vivek Reddy, a dedicated Cyber Security B.Tech student at Amrita Vish
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhivijit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekreddy06/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vivekreddy_9036)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vivekreddy_006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekreddy06/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vivekreddy_9036)
 
 
 ## 🚩 TryHackMe
-[![TryHackMe](https://thm-kohl.vercel.app/)](https://tryhackme.com/p/vivekreddy006)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vivekreddy006.png)](https://tryhackme.com/p/vivekreddy006)
 
 
 # 💻 Tech Stack:
